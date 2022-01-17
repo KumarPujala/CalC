@@ -13,7 +13,7 @@ enum Operation:String{
     case Subtract = "-"
     case Divide = "/"
     case Multiply = "*"
-    case NULL = "Null "
+    case NULL = "Null"
 }
 class ViewController: UIViewController {
 
